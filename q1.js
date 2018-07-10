@@ -52,5 +52,5 @@ const findBuySellIndicesForMaxProfit = function findBuySellIndicesForMaxProfit(p
 assert.deepEqual(findBuySellIndicesForMaxProfit(prices), [1, 3]);
 assert.deepEqual(findBuySellIndicesForMaxProfit([70,35,2,60,34,1]), [2, 3]);
 // if you can't make a profit at all (which is the same as buying/selling on the same day), return null;
-assert.deepEqual(findBuySellIndicesForMaxProfit([1,0,0]), null);
+assert.deepEqual(findBuySellIndicesForMaxProfit([0,0,0]), null);
 assert.deepEqual(findBuySellIndicesForMaxProfit([5,4,3,2,1]), null);

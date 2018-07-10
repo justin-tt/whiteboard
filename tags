@@ -1,0 +1,3 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+const	/home/justin/whiteboard/q1.js	/^let prices = [3, 0, 14, 32, 30, 2, 5];$/;"	f	language:JavaScript
+findBuySellIndicesForMaxProfit	/home/justin/whiteboard/q1.js	/^const findBuySellIndicesForMaxProfit = function findBuySellIndicesForMaxProfit(prices) {$/;"	f	language:JavaScript
